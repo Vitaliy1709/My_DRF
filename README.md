@@ -1,2 +1,2 @@
 # My_DRF
-My first ВКА project
+My first DRF project
